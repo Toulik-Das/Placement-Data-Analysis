@@ -17,5 +17,14 @@ Python Library Used :</br>
 <Li>Matplotlib</li>
 <Li>Seaborn</li>
 <Li>scikit-learn</li>
-<li>eli5</li></ol>
+<li>eli5</li></ol></br>
+Business UnderStanding:</br>
+<ol>
+<li>Does GPA affect placement?</li>
+<Li>Does Higher Secondary School's Percentage still affect campus placement?</li>
+<Li>Is work experience required for securing good job?</li>
+<Li>What factor affect the salary?</li></ol></br>
+
+
+
 
