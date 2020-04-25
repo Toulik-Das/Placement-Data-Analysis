@@ -24,7 +24,3 @@ Business UnderStanding:</br>
 <Li>Does Higher Secondary School's Percentage still affect campus placement?</li>
 <Li>Is work experience required for securing good job?</li>
 <Li>What factor affect the salary?</li></ol></br>
-
-
-
-
