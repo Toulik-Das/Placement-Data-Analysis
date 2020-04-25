@@ -7,7 +7,6 @@ Steps :</br>
 <Li>Explatory Data Analysis</li>
 <Li>Prediction of wheather student gets placed or not (Binary Classification)
 <Li>Determining characteristics affecting placement
-  <Li>Predition of Salary secured by a student (Regression)</br>
   
   
 Python Library Used :</br>
