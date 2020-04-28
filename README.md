@@ -30,7 +30,7 @@ Welcome everyone to this notebook,this is this notebook I'm going to explain you
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@dastoulik12/placement-data-analysis-42bba35014f0?sk=23b00fd9f08c16591ed022576b25b0af).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
