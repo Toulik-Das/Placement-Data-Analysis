@@ -25,6 +25,9 @@ Steps :</br>
 <Li>Is work experience required for securing good job?</li>
 <Li>What factor affect the salary?</li></ol></br>
 
+## Dataset Overview <a name="files"></a>
+This data set consists of Placement data of students in a college in India. It includes secondary and higher secondary school percentages and specialization. It also includes degree specialization, type, and Work experience, and salary offers to the placed students.
+
 ## File Descriptions <a name="files"></a>
 
 Welcome everyone to this notebook,this is this notebook I'm going to explain you about my own way of performing data analysis. The dataset I'm using is campus placement dataset from kaggle.To say more about the process I can include that I'm going to use python language and libraries which i'm going to use are seaborn,numpy,pandas,matplotlib and scikit learn.
