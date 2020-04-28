@@ -23,3 +23,7 @@ Business UnderStanding:</br>
 <Li>Does Higher Secondary School's Percentage still affect campus placement?</li>
 <Li>Is work experience required for securing good job?</li>
 <Li>What factor affect the salary?</li></ol></br>
+
+## Results<a name="results"></a>
+
+The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
