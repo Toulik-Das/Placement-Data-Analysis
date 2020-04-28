@@ -27,3 +27,8 @@ Business UnderStanding:</br>
 ## Results<a name="results"></a>
 
 The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+
+## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+
+Must give credit to Kaggle for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://storage.googleapis.com/kaggle-data-sets/596958/1073629/bundle/archive.zip?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1588350916&Signature=khXXeNMUrx%2B35kUrKZivYQVKUlZ%2FyaJELKFnpBhr%2B3npzHIlf7cVz9wWvmzFDfMl%2BAg0U7hyg5BYR679IOgE90Ad6tdSB7pnMWfomhgV1HOduhTziA4wuu9d1gHtOZuW5d26rup4BTdLsaOE6doa2yoI%2BDqSWzzp%2B2%2FdrdvHzaKgWVIwVwpigZVXpHBKXl%2Ba1CQX7ZUa%2F7X97hFlq2Cbx6MxkxL2Rj2AEWe8NrkOq%2BYvPirt%2F3YF7cPG9bFJFaOtofIcs8bXt1ZIVxocvlRlYVouIO0Uap2Ar7PR%2FPNWDJbaTMbIuJvfAbaZVYq%2FfiT1LQcLZzVsRBXNh%2F%2FKbiJDmw%3D%3D&response-content-disposition=attachment%3B+filename%3Dfactors-affecting-campus-placement.zip).  Otherwise, feel free to use the code here as you would like! 
+
