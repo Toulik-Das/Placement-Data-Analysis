@@ -26,9 +26,7 @@ Business UnderStanding:</br>
 
 ## File Descriptions <a name="files"></a>
 
-There are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
-
-There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
+Welcome everyone to this notebook,this is this notebook I'm going to explain you about my own way of performing data analysis. The dataset I'm using is campus placement dataset from kaggle.To say more about the process I can include that I'm going to use python language and libraries which i'm going to use are seaborn,numpy,pandas,matplotlib and scikit learn.
 
 ## Results<a name="results"></a>
 
