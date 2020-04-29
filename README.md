@@ -20,7 +20,7 @@ Steps :</br>
 
 ## Installation <a name="files"></a>
 
- Firstly Install Python 3.0 ([Click here])(https://www.youtube.com/watch?v=4Rx_JRkwAjY) and Jupyter Notebook ([Click here])(https://jupyter.readthedocs.io/en/latest/install.html)For Installing Python Packages Visit [the Website](https://pypi.org/) 
+ Firstly Install Python 3.0 [Click here](https://www.youtube.com/watch?v=4Rx_JRkwAjY) and Jupyter Notebook [Click here](https://jupyter.readthedocs.io/en/latest/install.html)For Installing Python Packages Visit [the Website](https://pypi.org/) 
  search for Packege Name for details features of the Packeges along with Intallation Process.
  
 
