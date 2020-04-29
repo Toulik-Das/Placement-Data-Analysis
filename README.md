@@ -18,9 +18,11 @@ Steps :</br>
 <Li>scikit-learn</li>
 <li>eli5</li></ol></br>
 
-## Instalation <a name="files"></a>
+## Installation <a name="files"></a>
 
- Firstly Install Python 3.0 and Jupyter Notebook [Click here](https://jupyter.readthedocs.io/en/latest/install.html)
+ Firstly Install Python 3.0[clickhere](https://www.youtube.com/watch?v=4Rx_JRkwAjY) and Jupyter Notebook [Click here](https://jupyter.readthedocs.io/en/latest/install.html)For Installing Python Packages Visit [the Website](https://pypi.org/) 
+ search for Packege Name for details features of the Packeges along with Intallation Process.
+ 
 
 ## Business Understanding<a name="Python Library used"></a>
 <ol>
