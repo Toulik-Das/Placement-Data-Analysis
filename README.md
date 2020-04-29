@@ -18,6 +18,10 @@ Steps :</br>
 <Li>scikit-learn</li>
 <li>eli5</li></ol></br>
 
+## Instalation <a name="files"></a>
+
+ Firstly Install Python 3.0 and Jupyter Notebook [Click here](https://jupyter.readthedocs.io/en/latest/install.html)
+
 ## Business Understanding<a name="Python Library used"></a>
 <ol>
 <li>Does GPA affect placement?</li>
